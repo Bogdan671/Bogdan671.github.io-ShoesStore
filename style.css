@@ -1116,6 +1116,11 @@ h1, h2, h3 {
     font-size: 14px;
     line-height: 18px;
   }
+  
+  .gallery-button {
+    top: 10px;
+    right: 10px;
+  }
 
   .goods-gallery {
     gap: 5px;
